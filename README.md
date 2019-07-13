@@ -1,7 +1,7 @@
 # Admon-Logayn
 Toll ini digunakan untuk mencari admin login
 # Screen Shoot
-![1](
+![1](https://github.com/pennyw1s3/Admon-Logayn/blob/master/login.png)
 # Command
 * `pkg update && pkg upgrade`
 * `pkg install python` 
